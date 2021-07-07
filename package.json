@@ -1,0 +1,16 @@
+{
+  "name": "com.xrxl.tools",
+  "displayName": "Create Parent Tool",
+  "version": "0.1.0",
+  "description": "Simple tool to take a group of selected Game Objects and add them as children \nof a new parent located at the center of the group.",
+  "keywords": [
+    "unity"
+  ],
+  "type": "library",
+  "author": {
+    "name": "Sam Horton",
+    "email": "samuel.t.horton@saic.com",
+    "url": "https://saic.com"
+  },
+  "hideInEditor": false
+}
